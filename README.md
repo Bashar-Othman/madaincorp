@@ -2,7 +2,7 @@
 
 </BR>
 
-start by run  <h2>fecthapi_filltext.html</h2> and open it using Web Browser (Chrome , Firefox , Opera )
+<h2>start by run  fecthapi_filltext.html</h2> and open it using Web Browser (Chrome , Firefox , Opera )
 </br>
 
 ![page](https://github.com/Bashar-Othman/madaincorp/assets/26125735/8e4f7e09-9cf0-4f29-baae-d1de113c2ca2)
